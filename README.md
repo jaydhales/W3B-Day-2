@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+### NFT CONTRACT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+Contract Link: https://sepolia.etherscan.io/token/0x748a16c6e39d4df517f120aedb683c4c7f0f737e
+Opensea Link: https://testnets.opensea.io/assets/sepolia/0x748a16c6e39d4df517f120aedb683c4c7f0f737e
