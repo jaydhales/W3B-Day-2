@@ -1,0 +1,19 @@
+{
+  "description": "Charming  Kitty that loves to be the center of attention.",
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/08.png",
+  "name": "Leo Hearteyes",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Ginger"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Charming"
+    }
+  ]
+}

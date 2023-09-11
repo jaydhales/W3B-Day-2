@@ -1,0 +1,19 @@
+{
+  "description": "Playful  Kitty that enjoys cozy naps in sunny spots.",
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/02.png",
+  "name": "Mittens Sunshine",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Cuddly"
+    }
+  ]
+}

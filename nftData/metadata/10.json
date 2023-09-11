@@ -1,0 +1,19 @@
+{
+  "description": "Regal  Kitty with a majestic presence.",
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/10.png",
+  "name": "Sir Whiskerington",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Regal"
+    }
+  ]
+}

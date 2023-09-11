@@ -1,0 +1,19 @@
+{
+  "description": "Adorable  Kitty with a love for chasing laser pointers.",
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/01.png",
+  "name": "Whiskers McFluffy",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Playful"
+    }
+  ]
+}

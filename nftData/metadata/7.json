@@ -1,0 +1,19 @@
+{
+  "description": "Mischievous  Kitty known for its playful antics.",
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/07.png",
+  "name": "Whisker Whirlwind",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Calico"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Hazel"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Mischievous"
+    }
+  ]
+}

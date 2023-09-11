@@ -1,0 +1,19 @@
+{
+  "description": "Curious  Kitty that's always exploring new places.",
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/05.png",
+  "name": "Oliver Adventurewhisker",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Curious"
+    }
+  ]
+}

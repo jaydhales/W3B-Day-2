@@ -1,0 +1,20 @@
+{
+  "description": "Mysterious  Kitty with captivating green eyes.",
+
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/03.png",
+  "name": "Shadow Whiskerwood",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Mysterious"
+    }
+  ]
+}

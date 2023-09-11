@@ -1,0 +1,19 @@
+{
+  "description": "Elegant  Kitty known for its graceful movements.",
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/04.png",
+  "name": "Luna Gracepaws",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Elegant"
+    }
+  ]
+}

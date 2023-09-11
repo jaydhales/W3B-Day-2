@@ -1,0 +1,19 @@
+{
+  "description": "Energetic  Kitty with a passion for chasing feather toys.",
+  "image": "ipfs://QmTReyct86fwBv7tmUUGcvAZJ6NE5phDqjQkHaoZ9Bkup7/09.png",
+  "name": "Tiger Pouncester",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Striped"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Energetic"
+    }
+  ]
+}
